@@ -61,6 +61,7 @@
     background-color: #FD6666;
   }
   #app {
+    width:100%;
     -webkit-box-shadow: none;
             box-shadow: none;
   }
